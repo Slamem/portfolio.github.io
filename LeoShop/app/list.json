@@ -1,0 +1,63 @@
+[{
+    "id": 1,
+    "img": "img/item-1.png",
+    "descr": "Lorem Ipsum is simply",
+    "price": 388,
+    "tape": ".new",
+    "link": "#"
+}, {
+    "id": 2,
+    "img": "img/item-2.png",
+    "descr": "Mauris viverra magna.",
+    "price": 90,
+    "link": "#"
+}, {
+    "id": 3,
+    "img": "img/item-3.png",
+    "descr": "MDonec et lorem suscipit.",
+    "price": 90,
+    "old-price": 460,
+    "tape": ".sale",
+    "link": "#"
+}, {
+    "id": 4,
+    "img": "img/item-4.png",
+    "descr": "Lorem Ipsum is simply.",
+    "price": 180,
+    "link": "#"
+}, {
+    "id": 5,
+    "img": "img/item-5.png",
+    "descr": "Mauris viverra magna.",
+    "price": 278,
+    "tape": ".new",
+    "link": "#"
+}, {
+    "id": 6,
+    "img": "img/item-6.png",
+    "descr": "Curabitur pretium dui.",
+    "price": 378,
+    "link": "#"
+}, {
+    "id": 7,
+    "img": "img/item-7.png",
+    "descr": "Sed tempus tellus.",
+    "price": 500,
+    "tape": ".new",
+    "link": "#"
+}, {
+    "id": 8,
+    "img": "img/item-8.png",
+    "descr": "Nulla accumsan lect.",
+    "price": 200,
+    "old-price": 460,
+    "tape": ".sale",
+    "link": "#"
+}, {
+    "id": 9,
+    "img": "img/item-9.png",
+    "descr": "Lorem Ipsum is simply.",
+    "price": 378,
+    "tape": ".new",
+    "link": "#"
+}]
